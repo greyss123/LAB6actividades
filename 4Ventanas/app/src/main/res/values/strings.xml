@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">4Ventanas</string>
+    <string name="title_activity_actividad1">actividad1</string>
+    <string name="title_activity_actividad2">actividad2</string>
+    <string name="title_activity_actividad3">actividad3</string>
+    <string name="title_activity_actividad4">actividad4</string>
+</resources>
